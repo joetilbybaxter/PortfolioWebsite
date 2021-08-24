@@ -1,5 +1,5 @@
 import "./contacts.scss"
-import ContactsIcon from '@material-ui/icons/Phone';
+
 import {useState} from "react"
 
 export default function Contacts() {
