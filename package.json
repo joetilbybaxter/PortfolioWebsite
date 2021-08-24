@@ -21,7 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "listen": "app.js"
+    "start": "node app.js"
   },
   "eslintConfig": {
     "extends": [
