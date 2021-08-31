@@ -6,14 +6,14 @@ export default function Testimonials() {
             <div className="container">
                 <div className="card">
                     <div className="top">
-                        <img src="" alt="" />
-                        <img className="user" src="" alt="" />
+                        <img src="assets/northcoders.jpg" alt="" />
+                        
                         <img className="" src="" alt="" />
                     </div>
-                    <div className="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti maxime tempora consectetur beatae? Nihil eius aspernatur quasi iste quod! Reiciendis, error natus? Cumque, veritatis commodi! Tenetur dicta vel aliquam temporibus!</div>
+                    <div className="center">Northcoders provides an industry-led full stack programme in JavaScript, teaching many different techs like Jest, axios, React, nodeJS, Express, HTML, CSS and GitHub to a industry standard.</div>
                     <div className="bottom">
-                        <h3>Alex</h3>
-                        <h3>CEO of code</h3>
+                        <h3></h3>
+                        <h3>Northcoders</h3>
                     </div>
                 </div>
             </div>
