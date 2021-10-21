@@ -3,7 +3,7 @@ export const featuredPortfolio = [
   {
     title: "Back end NC News",
     id: "2",
-    img: "assets/Nc-news-backend-api.png",
+    img: "assets/Nc-news-backend-api-Portfoliolist.png",
   },
 ];
 export const webPortfolio = [
