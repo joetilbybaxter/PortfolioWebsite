@@ -14,12 +14,19 @@ export default function Works() {
             img: "assets/blurble3.png"
         },
         {
-            id: "2",
+            id: "3",
             icon: "./assets/laptop-code.png",
-            title: "NC news",
+            title: "NC news frontend",
             desc: "This is an online news website",
             img: ""
 
+        },
+        {
+            id: "2",
+            icon:"./assets/laptop-code.png",
+            title: "NC news backend API",
+            desc: "This is all the back end to my NC News wesbite. I used PSQL to create the databases, Jest and SuperTest to test all my API requests and Heroku to host the API. I used a MVC setup for my API requests and even added example requests to make the connection to my NCNews front end more straightforward and easier to follow.",
+            img: "assets/Nc-news-backend-api.png"
         }
 
     ]
