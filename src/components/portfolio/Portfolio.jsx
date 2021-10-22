@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 import {
     featuredPortfolio,
     webPortfolio,
-    appPortfolio
+    mobilePortfolio
 } from "../../data"
 
 export default function Portfolio() {
@@ -34,8 +34,8 @@ export default function Portfolio() {
                 case "web":
                 setData(webPortfolio);
                 break;
-                case "app":
-                setData(appPortfolio);
+                case "mobile":
+                setData(mobilePortfolio);
                 break;
                 default:
                     setData(featuredPortfolio)

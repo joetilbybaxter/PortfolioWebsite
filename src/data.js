@@ -23,6 +23,6 @@ export const webPortfolio = [
     img: "assets/CountdownTimer.png",
   },
 ];
-export const appPortfolio = [
-  { title: "Blurble", id: "1", img: "assets/blurble3.png" },
+export const mobilePortfolio = [
+  { title: "Blurble", id: "1", img: "assets/blurble.png" },
 ];
