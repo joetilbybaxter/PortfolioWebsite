@@ -5,12 +5,22 @@ export const featuredPortfolio = [
     id: "2",
     img: "assets/Nc-news-backend-api-Portfoliolist.png",
   },
+  {
+    title: "Countdown Timer",
+    id: "3",
+    img: "assets/CountdownTimer.png",
+  },
 ];
 export const webPortfolio = [
   {
     title: "Back end NC News",
     id: "1",
     img: "assets/Nc-news-backend-api-rescaled.png",
+  },
+  {
+    title: "Countdown Timer",
+    id: "2",
+    img: "assets/CountdownTimer.png",
   },
 ];
 export const appPortfolio = [
