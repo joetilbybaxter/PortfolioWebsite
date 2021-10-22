@@ -1,5 +1,5 @@
 export const featuredPortfolio = [
-  { title: "Blurble", id: "1", img: "assets/blurble3.png" },
+  { title: "Blurble", id: "1", img: "assets/blurble.png" },
   {
     title: "Back end NC News",
     id: "2",
