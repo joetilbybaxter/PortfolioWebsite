@@ -31,6 +31,14 @@ export default function Works() {
             link: "https://github.com/joetilbybaxter/countdown-timer"
         },
         {
+            id: "5",
+            icon: "./assets/laptop-code2.jpeg",
+            title: "Joe's Interactive Map",
+            desc: "This is an interactive map integrating Google Maps API and the sunrise-sunset API when a place is clicked on the map the website will update to show whether it is currently day or night in the chosen location. The timezones dropdown can also be used to have the day/night variable of the website to be accurate for people in different timezones. React was the main technology used for this.",
+            img: "assets/interactive-map.png",
+            link: "https://github.com/joetilbybaxter/Interactive-map"
+        },
+        {
             id: "3",
             icon: "./assets/laptop-code2.jpeg",
             title: "NC news frontend",

@@ -10,6 +10,11 @@ export const featuredPortfolio = [
     id: "3",
     img: "assets/CountdownTimer.png",
   },
+  {
+    title: "Joe's Interactive Map",
+    id: "4",
+    img: "assets/interactive-map.png",
+  },
 ];
 export const webPortfolio = [
   {
@@ -21,6 +26,11 @@ export const webPortfolio = [
     title: "Countdown Timer",
     id: "2",
     img: "assets/CountdownTimer.png",
+  },
+  {
+    title: "Joe's Interactive Map",
+    id: "3",
+    img: "assets/interactive-map.png",
   },
 ];
 export const mobilePortfolio = [
